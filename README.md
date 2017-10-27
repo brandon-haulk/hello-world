@@ -1,2 +1,2 @@
 # hello-world.
-# my name is brandon haulk and this is my first repository.
+my name is brandon haulk and this is my first repository.
